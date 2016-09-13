@@ -1,0 +1,13 @@
+{
+  "name": "RHorv/interfaces",
+  "type": "project",
+  "description": "Interfaces",
+  "autoload": {
+    "psr-4": {
+      "RHorv\\Interfaces\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
